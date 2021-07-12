@@ -9,3 +9,6 @@ All the Algorithms that I've come across...
  <i><b>Diagonal Difference:<b><i>
  * A Matrix of size n * n is given as input, find the absolute value of the difference  
   between the sum of the diagonals of the matrix
+  
+  <i><b>Product Except Self:<b><i>  
+  * An array *P* of integers are given as input. return an array of the products of *P* excluding *P[i]*
