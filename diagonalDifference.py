@@ -21,3 +21,9 @@ def diagonal_diff(array):
 
 
 print(diagonal_diff(array_input))
+
+
+
+
+
+
