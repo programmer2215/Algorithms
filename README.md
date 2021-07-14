@@ -1,20 +1,18 @@
 # Algorithms
-All the Algorithms that I've come across...
+All the Data Structures & Algorithms based problems that I've come across...
 
 
-<i><b>Sorted Squared Array (EASY):</b></i>
- * An array of size n (where n >= 1) is given as input and all elements range from (-10000 to 10000)  
- each element must be squared and added to an output array that is at the end sorted.  
+*  <i><b>Sorted Squared Array (EASY):</b></i>
+   [Problem source](https://leetcode.com/problems/squares-of-a-sorted-array/)
    
- <i><b>Diagonal Difference (EASY):</b></i>
- * A Matrix of size n * n is given as input, find the absolute value of the difference  
-  between the sum of the diagonals of the matrix
+*  <i><b>Diagonal Difference (EASY):</b></i>
+   [Problem source](https://www.hackerrank.com/challenges/diagonal-difference/problem)
   
-  <i><b>Product Except Self (MEDIUM):</b></i>  
-  * An array P of integers are given as input. return an array of the products of *P* excluding *P[i]*
+*  <i><b>Product Except Self (MEDIUM):</b></i> 
+   [Problem source](https://leetcode.com/problems/product-of-array-except-self/)
    
-   <i><b>Jumping On Clouds (EASY):</b></i>  
-  * An array C of integers (C[i] ∊ {0,1}) are given as input. each integer represents either a cumulus cloud (0) or  
-    a thunder cloud (1). you can jump on to a cloud with a value 0, if the cloud is 1 or 2 indexes ahead.   
-    there won't be consecutive 1s (thunder clouds) in the array and the array won't end in a thunder cloud (1).  
-    find the minimum jumps required to reach the end of the array.
+*  <i><b>Jumping On Clouds (EASY):</b></i> 
+   [Problem source](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+    
+*  <i><b>Balanced Brackets (MEDIUM):</b></i> 
+   [Problem source](https://www.hackerrank.com/challenges/balanced-brackets/problem)
