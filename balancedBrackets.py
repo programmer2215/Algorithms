@@ -23,6 +23,8 @@ def isBalanced(s):
                     return "NO"
                 elif pop_val == "[" and s[i] != "]":
                     return "NO"
+    if not len(stack) == 0:
+        return "NO"
     return "YES"
 
 print(isBalanced(inp_1))
